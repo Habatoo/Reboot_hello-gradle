@@ -8,5 +8,6 @@ public class Main {
         System.out.println(StringUtils.capitalize("hello master"));
         System.out.println(StringUtils.capitalize("hello gradle"));
 	System.out.println(StringUtils.upperCase("Hello Gradle"));
+	System.out.println(StringUtils.upperCase("Hello new feature Gradle"));
     }
 }
