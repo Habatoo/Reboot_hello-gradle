@@ -7,5 +7,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println(StringUtils.capitalize("hello gradle"));
 	System.out.println(StringUtils.upperCase("Hello Gradle"));
+	System.out.println(StringUtils.upperCase("Hello new feature Gradle"));
     }
 }
